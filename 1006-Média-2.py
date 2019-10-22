@@ -1,6 +1,7 @@
-v1=float(input())
-v2=float(input())
-v3=float(input())
-media = (v1 * 2 + v2 * 3 + v3 * 5) / 10
+valor1=float(input())
+valor2=float(input())
+valor3=float(input())
+
+media = (valor1 * 2 + valor2 * 3 + valor3 * 5) / 10
 
 print('MEDIA = %.1f'%(media))

@@ -38,7 +38,6 @@ print("{} nota(s) de R$ 10.00".format(nota10))
 print("{} nota(s) de R$ 5.00".format(nota05))
 print("{} nota(s) de R$ 2.00".format(nota02))
 
-
 print("MOEDAS:")
 print("{} moeda(s) de R$ 1.00".format(moeda1))
 print("{} moeda(s) de R$ 0.50".format(moeda050))

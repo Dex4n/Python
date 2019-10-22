@@ -1,6 +1,6 @@
-v1 = int(input())
-v2 = int(input())
+valor1 = int(input())
+valor2 = int(input())
 
-PROD = v1 * v2
+PROD = valor1 * valor2
 
 print('PROD =', PROD)

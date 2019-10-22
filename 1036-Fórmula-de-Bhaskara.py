@@ -15,4 +15,3 @@ else:
     x2 = (-b - math.sqrt(delta)) / (2 * a)
     print("R1 = %0.5f"%x1)
     print("R2 = %0.5f"% x2)
-

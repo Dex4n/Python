@@ -5,4 +5,3 @@ raio = float(input())
 area = pi * raio * raio
 
 print('A=%.4f'%(area))
-

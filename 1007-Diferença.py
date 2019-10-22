@@ -6,4 +6,3 @@ D=int(input())
 DIF = (A * B) - (C * D)
 
 print ('DIFERENCA =', DIF)
-

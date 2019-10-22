@@ -9,4 +9,3 @@ elif (valor > 50 and valor <= 75):
 elif (valor > 75 and valor <= 100):
     print("Intervalo (75,100]")
 else: print ("Fora de intervalo")
-
